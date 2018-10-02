@@ -1,8 +1,8 @@
-# 42sh
-Projet 42sh fin de première année Epitech
+# 2016_42sh
+Project 42sh from the end of the first year at EPITECH
 
 # But
-Réaliser un shell complet avec un parseur LL.
+Make a complete shell with an LL parser.
 
 # Fonctionnel
 - Historique (Up arrow, down arrow, !$, !!, !:n, !n, !-n, ...)
