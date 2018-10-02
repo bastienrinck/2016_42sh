@@ -2,7 +2,7 @@
 Projet 42sh de fin de première année à EPITECH.
 
 # But
-Faire un SHELL complète avec un parseur LL.
+Faire un SHELL complet avec un parseur LL.
 
 # Fonctionnel
 - Historique (Up arrow, down arrow, !$, !!, !:n, !n, !-n, ...)
