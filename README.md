@@ -15,7 +15,7 @@ Réaliser un shell complet avec un parseur LL.
 - Auto-complétion (deux modes: Ctrl + F)
 - Magic quote
 
-Keynote : http://slides.com/thibrex/42sh#/
+Keynote : http://slides.com/thibautcornolti/42sh#/
 
 # Auteurs
 - Cedric Thomas
